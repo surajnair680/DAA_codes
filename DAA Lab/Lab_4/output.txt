@@ -1,0 +1,28 @@
+Output 1:-
+
+Enter first string: bcfgh
+Enter second string: abcdefg
+0  0  0  0  0  0  
+0  0u 0u 0u 0u 0u 
+0  1d 1l 1l 1l 1l 
+0  1u 2d 2l 2l 2l 
+0  1u 2u 2u 2u 2u 
+0  1u 2u 2u 2u 2u 
+0  1u 2u 3d 3l 3l 
+0  1u 2u 3u 4d 4l 
+LCS: bcfg
+
+------------------------------------------------------------
+
+Output 2:-
+
+Enter first string: ABCDGH
+Enter second string: AEDFHR
+0  0  0  0  0  0  0  
+0  1d 1l 1l 1l 1l 1l 
+0  1u 1u 1u 1u 1u 1u 
+0  1u 1u 1u 2d 2l 2l 
+0  1u 1u 1u 2u 2u 2u 
+0  1u 1u 1u 2u 2u 3d 
+0  1u 1u 1u 2u 2u 3u 
+LCS: ADH

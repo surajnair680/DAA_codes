@@ -1,0 +1,77 @@
+Example 1:-
+
+
+
+Enter number of vertices: 6
+Enter number of edges: 9
+First vertex: 0
+Second vertex: 1
+Enter weight: 6
+
+First vertex: 0
+Second vertex: 2
+Enter weight: 4
+
+First vertex: 0
+Second vertex: 3
+Enter weight: 5
+
+First vertex: 1
+Second vertex: 4
+Enter weight: -1
+
+First vertex: 2
+Second vertex: 1
+Enter weight: -2
+
+First vertex: 2
+Second vertex: 4
+Enter weight: 3
+
+First vertex: 3
+Second vertex: 2
+Enter weight: -2
+
+First vertex: 3
+Second vertex: 5
+Enter weight: -1
+
+First vertex: 4
+Second vertex: 5
+Enter weight: 3
+
+vertex  shortest distance from source(0)
+0       0
+1       1
+2       3
+3       5
+4       0
+5       3
+
+---------------------------------------------------------------------------------------------
+
+Example 2:- [Containes negative cycle]
+
+Enter number of vertices: 4
+Enter number of edges: 5
+First vertex: 0
+Second vertex: 1
+Enter weight: 4
+
+First vertex: 0
+Second vertex: 2
+Enter weight: 5
+
+First vertex: 2
+Second vertex: 1
+Enter weight: 7
+
+First vertex: 1
+Second vertex: 3
+Enter weight: 7
+
+First vertex: 3
+Second vertex: 2
+Enter weight: -15
+
+Negative cycle detected. Therefore shortest distance cannot be found.

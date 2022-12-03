@@ -1,0 +1,45 @@
+Enter number of vertices: 6
+Enter number of edges: 9
+First vertex: 0
+Second vertex: 1
+Enter weight: 1
+
+First vertex: 0
+Second vertex: 2
+Enter weight: 5
+
+First vertex: 1
+Second vertex: 2
+Enter weight: 2
+
+First vertex: 1
+Second vertex: 3
+Enter weight: 2
+
+First vertex: 1
+Second vertex: 4
+Enter weight: 1
+
+First vertex: 2
+Second vertex: 4
+Enter weight: 2
+
+First vertex: 3
+Second vertex: 4
+Enter weight: 3
+
+First vertex: 3
+Second vertex: 5
+Enter weight: 1
+
+First vertex: 4
+Second vertex: 5
+Enter weight: 2
+
+vertex  distance from source(0)
+0       0
+1       1
+2       3
+3       3
+4       2
+5       4

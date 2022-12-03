@@ -1,0 +1,24 @@
+Example 1:-
+
+Enter number of elements: 5
+Enter the elements:-
+3 5 2 4 1
+Enter the target sum: 7
+Subset 1: 1 2 4 
+Subset 2: 2 5 
+Subset 3: 3 4 
+
+----------------------------------------------------------------------------------
+
+Example 2:-
+
+Enter number of elements: 8
+Enter the elements:-
+2 5 4 9 2 10 8 3
+Enter the target sum: 11
+Subset 1: 2 2 3 4 
+Subset 2: 2 4 5 
+Subset 3: 2 9 
+Subset 4: 2 4 5 
+Subset 5: 2 9 
+Subset 6: 3 8 
